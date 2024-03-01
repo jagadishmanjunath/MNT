@@ -1,13 +1,198 @@
-INSERT|RETAIL_LOCATION|testing|sndkjfdn|onfsdkjnfkj|nskdjkjvbdks|jknksdjnvkjv|kjvnckjcjk|knvkcjjck|kcvjkjcv
-INSERT|RETAIL_LOCATION|2913|P13|Louis Vuitton DUBAI MALL OF THE EMIRATES||Mall of the Emirates  Fashion Dome|||DUBAI
-INSERT|RETAIL_LOCATION|2914|P14|Louis Vuitton ABU DHABI MARINA MALL||Marina Mall|||ABU DHABI
-INSERT|RETAIL_LOCATION|2915|P15|Louis Vuitton ABU DHABI GALLERIA MALL||The Galleria  Al Maryah Island|||ABU DHABI
-INSERT|RETAIL_LOCATION|2916|P16|Louis Vuitton DUBAI MALL - LEVEL SHOES||The Dubai Mall  Level Shoes|||DUBAI
-INSERT|RETAIL_LOCATION|2917|P17|Louis Vuitton DUBAI MALL - GALERIES LAFAYETTE||The Dubai Mall  Galeries Lafayette|||DUBAI
-INSERT|RETAIL_LOCATION|testing|sndkjfdn|onfsdkjnfkj|nskdjkjvbdks|jknksdjnvkjv|kjvnckjcjk|knvkcjjck|kcvjkjcv
-INSERT|RETAIL_LOCATION|2913|P13|Louis Vuitton DUBAI MALL OF THE EMIRATES||Mall of the Emirates  Fashion Dome|||DUBAI
-INSERT|RETAIL_LOCATION|2914|P14|Louis Vuitton ABU DHABI MARINA MALL||Marina Mall|||ABU DHABI
-INSERT|RETAIL_LOCATION|2915|P15|Louis Vuitton ABU DHABI GALLERIA MALL||The Galleria  Al Maryah Island|||ABU DHABI
-INSERT|RETAIL_LOCATION|2916|P16|Louis Vuitton DUBAI MALL - LEVEL SHOES||The Dubai Mall  Level Shoes|||DUBAI
-INSERT|RETAIL_LOCATION|2917|P17|Louis Vuitton DUBAI MALL - GALERIES LAFAYETTE||The Dubai Mall  Galeries Lafayette|||DUBAI
-INSERT|RETAIL_LOCATION|2917|P17|Louis Vuitton DUBAI MALL - GALERIES LAFAYETTE||The Dubai Mall  Galeries Lafayette|||DUBAI
+INSERT|RETAIL_LOCATION|5101|N14|路易威登店||中国温州市信河街1号华侨饭店国际名品广场103，203商铺|||温州
+INSERT|RETAIL_LOCATION|5102|N26|路易威登店||中国杭州市武林广场1号杭州大厦购物中心B座101，201，301商铺|||杭州
+INSERT|RETAIL_LOCATION|5103|N99|路易威登店||中国南京市中山路18号德基广场L101-102，L201-202商铺|||南京
+INSERT|RETAIL_LOCATION|5104|NA9|路易威登店||Shop 1-3  Level 1  Times No.1  Times Square  160 Yanjiang Avenue Jiang'an District Wuhan 430017|||武汉
+INSERT|RETAIL_LOCATION|5105|NC1|路易威登店||中国长沙市芙蓉中路一段478号美美百货101商铺|||长沙
+INSERT|RETAIL_LOCATION|5106|NC5|路易威登店||中国无锡市中山路168号八佰伴商厦A101商铺|||无锡
+INSERT|RETAIL_LOCATION|5107|ND3|路易威登店||中国宁波市和义路50号和义大道购物中心A区1003，2005商铺  1003  2005  |||宁波
+INSERT|RETAIL_LOCATION|5108|NE7|路易威登店||中国杭州市江干区富春路701号万象城115号商铺|||杭州
+INSERT|RETAIL_LOCATION|5109|NJ1|路易威登店||中国杭州市东坡路23号杭州湖滨银泰IN77 P1号商铺|||杭州
+INSERT|RETAIL_LOCATION|5110|NJ9|路易威登店||中国合肥市庐阳区长江中路98号银泰中心L101商铺|||合肥
+INSERT|RETAIL_LOCATION|5111|NK1|路易威登店||中国武汉市江汉区解放大道690号武汉国际广场一层B区1-2号商铺|||武汉
+INSERT|RETAIL_LOCATION|5112|NN1|路易威登店||中国郑州市二七路丹尼斯大卫城一楼1015、1018和1019单元商铺|||郑州
+INSERT|RETAIL_LOCATION|5113|NN2|路易威登店||中国杭州市武林广场1号杭州大厦购物中心B座326店铺|||杭州
+INSERT|RETAIL_LOCATION|5114|N12|北京路易威登之家||中国北京市朝阳区建外大街1号国贸商城西楼L128商铺|||北京
+INSERT|RETAIL_LOCATION|5115|N96|路易威登店||中国北京市王府井金鱼胡同8号王府半岛酒店一层G2/ L19商铺 |||北京
+INSERT|RETAIL_LOCATION|5116|NA1|路易威登店||中国北京西城区金城坊街2号金融街购物中心L131-132商铺|||北京
+INSERT|RETAIL_LOCATION|5117|NG2|路易威登店||中国石家庄市长安区育才街58号开元花园先天下购物中心一层G2商铺|||石家庄
+INSERT|RETAIL_LOCATION|5118|NL1|路易威登店||北京市朝阳区建国路87号北京SKP M1024-M1026商铺|||北京
+INSERT|RETAIL_LOCATION|5120|NL2|路易威登店||中国天津市河西区乐园道9号万象城商场L1-019商铺|||天津
+INSERT|RETAIL_LOCATION|5121|NL5|路易威登店||北京市朝阳区建国路87号北京SKP M2003商铺|||北京
+INSERT|RETAIL_LOCATION|5123|NL6|路易威登店||北京市朝阳区建国路87号北京SKP D4005商铺|||北京
+INSERT|RETAIL_LOCATION|5125|NB1|路易威登店||中国沈阳市沈河区北京街7-1号卓展购物中心1101-01及02商铺|||沈阳
+INSERT|RETAIL_LOCATION|5126|NB4|路易威登店||中国长春市重庆路1255号卓展购物中心A1123  B222商铺 |||长春
+INSERT|RETAIL_LOCATION|5127|NB8|路易威登店||中国青岛市澳门路117号海信广场一层125/ 127商铺|||青岛
+INSERT|RETAIL_LOCATION|5128|NC9|路易威登店||中国大连市中山区人民路50号时代广场L101，L201商铺|||大连
+INSERT|RETAIL_LOCATION|5129|NG3|路易威登店||中国沈阳市和平区青年大街288号万象城N101，N201号商铺|||沈阳
+INSERT|RETAIL_LOCATION|5130|NJ2|路易威登店||中国沈阳市沈河区惠工街12号卓展购物中心卓越精品馆101商铺|||沈阳
+INSERT|RETAIL_LOCATION|5131|NJ6|路易威登店||中国哈尔滨市道里区安隆街106号卓展购物中心1101/ 1123商铺|||哈尔滨
+INSERT|RETAIL_LOCATION|5132|NL3|路易威登店||中国济南市天地坛街1号贵和购物中心101-102商铺|||济南
+INSERT|RETAIL_LOCATION|5133|N03|上海路易威登之家||中国上海市南京西路1266号恒隆广场136商铺|||上海
+INSERT|RETAIL_LOCATION|5134|NC4|路易威登店||中国上海市世纪大道8号上海国金中心D座L1-1商铺|||上海
+INSERT|RETAIL_LOCATION|5135|NK6|路易威登店||中国上海市仙霞路99号尚嘉中心L101商铺|||上海
+INSERT|RETAIL_LOCATION|5136|N83|路易威登店||中国厦门市湖滨北建业路8号马哥孛罗东方大酒店1号商铺|||厦门
+INSERT|RETAIL_LOCATION|5137|ND2|路易威登店||Shop L101 Dream Island Shopping Center  137 Qixing Road Qingxiu District  Nanning 530022|||南宁
+INSERT|RETAIL_LOCATION|5138|ND7|路易威登店||广东省深圳市罗湖区深南东路5001号深圳万象城一期182，282号商铺|||深圳
+INSERT|RETAIL_LOCATION|5139|NE6|路易威登店||中国广州市天河路383号太古汇L101，L201商铺 |||广州
+INSERT|RETAIL_LOCATION|5140|N42|路易威登店||中国西安市南大街30号中大国际AG01/ A101商铺|||西安
+INSERT|RETAIL_LOCATION|5141|NE3|路易威登店||成都市锦江区人民南路二段1号仁恒置地广场L105商铺|||成都
+INSERT|RETAIL_LOCATION|5142|NG4|路易威登店||中国昆明市盘龙区北京路985号金格百货时光店F1026商铺 |||昆明
+INSERT|RETAIL_LOCATION|5143|NG5|路易威登店||中国重庆市渝中区邹容路100号时代广场L101商铺 |||重庆
+INSERT|RETAIL_LOCATION|5144|NL4|路易威登店||中国成都市红星路三段一号国际金融中心商场L101，L201，L301商铺|||成都
+INSERT|RETAIL_LOCATION|5145|NV6|路易威登店||重庆市江北区江北城北大街38号国金中心第三层L320号商铺|||重庆
+INSERT|RETAIL_LOCATION|5146|NV7|路易威登店||重庆市江北区江北城北大街38号国金中心第二层L251-L252号商铺|||重庆
+INSERT|RETAIL_LOCATION|5147|NV5|路易威登（中国）商业销售有限公司长沙芙蓉区店||长沙市芙蓉区解放西路270号东牌楼路长沙国金中心第一层L108号及第二层L208号商铺|||长沙
+INSERT|RETAIL_LOCATION|5148|NVA|路易威登店||西安碑林区长安北路261号SKP B1006 商铺|||西安
+INSERT|RETAIL_LOCATION|5149|NV9|路易威登店||西安碑林区长安北路261号SKP A1024 商铺|||西安
+INSERT|RETAIL_LOCATION|5150|NVC|路易威登店||西安碑林区长安北路261号SKP A5008 商铺|||西安
+INSERT|RETAIL_LOCATION|5155|NVV|路易威登店||上海市徐汇区虹桥路1号港汇恒隆广场一楼103单元|||上海
+INSERT|RETAIL_LOCATION|5198|N78|China Home Delivery|||||
+INSERT|RETAIL_LOCATION|7778|NU8|CHINA WAREHOUSE||2ND FLOOR  NO. 3 WAREHOUSE  NO. 200 RENQING ROAD  |ZHONGCHU LOGISTICS PARK||上海
+INSERT|RETAIL_LOCATION|7780|PHG|CHINA WAREHOUSE||2ND FLOOR  NO. 3 WAREHOUSE  NO. 200 RENQING ROAD  |ZHONGCHU LOGISTICS PARK||上海
+INSERT|RETAIL_LOCATION|7795|NEZ|China Warehouse Ecommerce||No. 200 RenQing Road Zhongchu Logistics Park|2nd Floor  No.3 Warehouse||上海
+INSERT|RETAIL_LOCATION|8026|NH9|LVC Head Office||1266 Nanjing West Road|Plaza 66  Phase 1  40th floor||上海
+INSERT|RETAIL_LOCATION|8027|NSG|LVC Staff Sales||2ND FLOOR  NO. 3 WAREHOUSE|||上海
+INSERT|RETAIL_LOCATION|5152|NVX|路易威登店||福建省厦门市思明区湖滨东路99号万象城第一层L136，L137号铺|||厦门
+INSERT|RETAIL_LOCATION|5153|NVT|路易威登店||北京市大兴区北京大兴国际机场航站楼S-BL02-016  017（大兴机场内）|||北京
+INSERT|RETAIL_LOCATION|5156|NVN|路易威登店||苏州市观前街245号苏州美罗百货观前店1029号，2027号商铺  |||苏州
+INSERT|RETAIL_LOCATION|5162|NX2|路易威登店||北京市建国路86号北京SKP-S D1003商铺|||北京
+INSERT|RETAIL_LOCATION|5157|NVL|路易威登店||上海南京西路1266号恒隆广场一期4001室|||上海
+INSERT|RETAIL_LOCATION|5124|NX4|路易威登店||云南省昆明市盘龙区东风东路21号昆明恒隆广场L117C L117D L118A L118B L118C单元|||昆明
+INSERT|RETAIL_LOCATION|5154|NVU|路易威登店||上海市徐汇区华山路1901号1层110及111室|||上海
+INSERT|RETAIL_LOCATION|5167|NL7|路易威登店||江苏省无锡市梁溪区人民中路139号无锡恒隆广场一楼125/126/127/128单元|null||无锡
+INSERT|RETAIL_LOCATION|5160|NXC|路易威登店||广西省南宁市青秀区民族大道136-2号南宁万象城一层DL101单元|||南宁
+INSERT|RETAIL_LOCATION|5163|NXF|路易威登店||山西省太原市小店区平阳路街道长风街113号天美新天地商场一层137单元、125单元、126单元|||太原
+INSERT|RETAIL_LOCATION|5159|NXB|路易威登店||上海市闵行区申达一路1号上海虹桥国际机场2号航站楼D47-17|||上海
+INSERT|RETAIL_LOCATION|5171|NXM|路易威登店||山东省济南市历下区经十路11111号华润万象城1层|||济南
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION|||||null|||null
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION|||null||null|null||null
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION|||null||null|||null
+|RETAIL_LOCATION|||null||null|||null
+|RETAIL_LOCATION|||null||null|||null
+|RETAIL_LOCATION|||null||null|||null
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION|||null||null|||null
+|RETAIL_LOCATION|||null||null|||null
+|RETAIL_LOCATION|||null||null|||null
+|RETAIL_LOCATION||||||||
+|RETAIL_LOCATION|||null||null|||null
+|RETAIL_LOCATION|||null||null|||null
+|RETAIL_LOCATION|||null||null|||null
+|RETAIL_LOCATION|||null||null|||null
+|RETAIL_LOCATION|||null||null|||null
